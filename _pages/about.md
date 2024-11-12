@@ -154,3 +154,7 @@ Projects
         </tr>
     </tbody>
 </table>
+
+<div>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=93mdDoGxdBZ0jtXGlfcnxop61AP8aJa4C31BnWMD98A&cl=ffffff&w=a"></script>
+</div>
