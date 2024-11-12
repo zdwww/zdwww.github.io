@@ -102,8 +102,8 @@ Projects
                 Submitted to <em>IEEE Transactions on Geoscience and Remote Sensing</em>
                 <br>
                 <em>Final Project for <a href="https://karto.ethz.ch/en/education/courses/master/research-topics-cartography.html" target="_blank">Research Topics in Cartography</a></em>
-                <!-- <br>
-                <a href="https://zdwww.github.io/egogs.github.io/">Project</a> -->
+                <br>
+                <a href="https://arxiv.org/abs/2411.06971">arXiv</a>
                 <p></p>
                 <p>
                     A parameter-efficient fine-tuning strategy that adapts SAM into a prompt-free and versatile solution for various downstream historical map segmentation tasks.
