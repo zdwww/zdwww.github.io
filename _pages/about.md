@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Data Science Master student at ETH Zurich, where I worked on 3D Vision research projects with <a href="https://xiwang1212.github.io/homepage/" target="_blank">Dr. Xi Wang</a> and <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html" target="_blank">Prof. Luc Van Gool</a>. Before that, I obtained a dual B.S. degree in Data Science and Applied Mathematics from the University of Rochester.
+Hello! I'm a Data Science Master student at ETH Zurich, where I have worked on egocentric vision research projects at <a href="https://vision.ee.ethz.ch" target="_blank">CVL</a>, advised by <a href="https://xiwang1212.github.io/homepage/" target="_blank">Dr. Xi Wang</a> and <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html" target="_blank">Prof. Luc Van Gool</a>, as well as agriculture-vision projects with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a>. Before that, I obtained a dual B.S. degree in Data Science and Applied Mathematics from the University of Rochester.
 
-My research interests are 3D Vision and video understanding.
+My research interests focus on 3D vision and video understanding.
 
 Publications
 ------
