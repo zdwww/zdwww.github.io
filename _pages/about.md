@@ -45,7 +45,7 @@ Publications
                 /
                 <a href="https://arxiv.org/abs/2406.19811" target="_blank">arXiv</a>
                 /
-                <a href="https://arxiv.org/abs/2406.19811" target="_blank">Code</a>
+                <a href="https://github.com/zdwww/EgoGaussian" target="_blank">Code</a>
                 <p></p>
                 <p>
                     Recontruct 3D scenes and dynamically tracking 3D object motion from RGB egocentric input alone.
