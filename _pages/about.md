@@ -39,7 +39,7 @@ Publications
                 <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html" target="_blank">Luc Van Gool</a>,
                 <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a>
                 <br>
-                <em>International Conference on 3D Vision (<strong>3DV</strong>) 2025</em>
+                <em>International Conference on 3D Vision (<a href="https://3dvconf.github.io/2025/" target="_blank">3DV</a>) 2025</em>
                 <br>
                 <a href="https://zdwww.github.io/egogs.github.io/" target="_blank">Project</a>
                 /
