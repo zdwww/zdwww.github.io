@@ -17,8 +17,8 @@ Education
 
 Teaching Experience
 ======
-* Intermediate Statistics, University of Rochester, 01.2020 - 05.2020
-* Discrete Mathematics, University of Rochester, 01.2019 - 05.2020
+* Teaching Assistant, Intermediate Statistics, Goergen Institute for Data Science, University of Rochester, Jan.2020 - May.2020
+* Teaching Assistant, Discrete Mathematics, Department of Mathematics, University of Rochester, Jan.2019 - May.2020
 
 <!-- Work experience
 ======
