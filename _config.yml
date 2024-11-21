@@ -21,7 +21,7 @@ repository               : "zdwww/zdwww.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Daiwei Zhang"
   pronouns         : # example: "she/her"  
   bio              : " "

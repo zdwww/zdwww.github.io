@@ -15,6 +15,11 @@ Education
 * B.S. in Data Science with Highest Distinction, University of Rochester, 2021
 * B.S. in Applied Mathematics with High Distinction, University of Rochester, 2021
 
+Teaching Experience
+======
+* Intermediate Statistics, University of Rochester, 01.2020 - 05.2020
+* Discrete Mathematics, University of Rochester, 01.2019 - 05.2020
+
 <!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
