@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm a Data Science Master student at ETH Zurich, where I have worked on egocentric vision research projects at <a href="https://vision.ee.ethz.ch" target="_blank">CVL</a>, advised by <a href="https://xiwang1212.github.io/homepage/" target="_blank">Dr. Xi Wang</a> and <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html" target="_blank">Prof. Luc Van Gool</a>, as well as agriculture-vision projects with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a>. Before that, I obtained a dual B.S. degree in Data Science and Applied Mathematics from the University of Rochester.
+Hello! I'm a Data Science Master student at ETH Zurich, where I have worked on egocentric vision research projects with Dr. <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a> , Prof. <a href="https://insait.ai/prof-luc-van-gool/" target="_blank">Luc Van Gool</a>, and Prof. <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Marc Pollefeys</a>, as well as agriculture-vision projects with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a>. Before that, I obtained a dual B.S. degree in Data Science and Applied Mathematics from the University of Rochester.
 
 My research interests focus on 3D vision and video understanding.
 
@@ -39,7 +39,7 @@ Publications
                 <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html" target="_blank">Luc Van Gool</a>,
                 <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a>
                 <br>
-                <em>International Conference on 3D Vision (<a href="https://3dvconf.github.io/2025/" target="_blank">3DV</a>) 2025</em>
+                Accepted at <em>International Conference on 3D Vision (<a href="https://3dvconf.github.io/2025/" target="_blank">3DV</a>) 2025</em>
                 <br>
                 <a href="https://zdwww.github.io/egogs.github.io/" target="_blank">Project</a>
                 /
@@ -58,7 +58,7 @@ Publications
     <tbody>
         <tr>
             <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
-                <img src="/images/covid.png" width="80%">
+                <img src="/images/covid.png" width="90%">
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
                 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9629680/" target="_blank">
@@ -87,6 +87,27 @@ Projects
 <table style="border-collapse: collapse; border: none;">
     <tbody>
         <tr>
+            <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
+                <img src="/images/wheatgs.gif" width="95%">
+            </td>
+            <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
+                <span class="papertitle" style="font-weight: bold;">3D Understanding of Wheat Fields for Phenotypic Trait Extraction</span>
+                <br>
+                <em>Semester project with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a> (SDSC) and <a href="https://kp.ethz.ch" target="_blank">Institute of Agricultural Sciences</a></em>
+                <br>
+                arXiv in preparation
+                <p></p>
+                <p>
+                 A multi-scale reconstruction pipeline capable of modeling both the entire wheat field and individual wheat heads, using high-throughput RGB data collected with the Field Phenotyping Platform (<a href="https://kp.ethz.ch/infrastructure/FIP.html" target="_blank">FIP</a>).
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="border-collapse: collapse; border: none;">
+    <tbody>
+        <tr>
             <td style="padding:0px;width:30%;vertical-align:middle;border:none;">
                 <img src="/images/mapsam.png" width="100%">
             </td>
@@ -107,27 +128,6 @@ Projects
                 <p></p>
                 <p>
                     A parameter-efficient fine-tuning strategy that adapts SAM into a prompt-free and versatile solution for various downstream historical map segmentation tasks.
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table style="border-collapse: collapse; border: none;">
-    <tbody>
-        <tr>
-            <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
-                <img src="/images/wheatgs.jpg" width="85%">
-            </td>
-            <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
-                <span class="papertitle" style="font-weight: bold;">3D Reconstruction of Wheat Fields for Phenotypic Trait Extraction</span>
-                <br>
-                <em>Semester project with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a> (SDSC) and <a href="https://kp.ethz.ch" target="_blank">Institute of Agricultural Sciences</a></em>
-                <br>
-                arXiv in preparation
-                <p></p>
-                <p>
-                 A multi-scale reconstruction pipeline capable of modeling both the entire wheat field and individual wheat heads, using high-throughput RGB data collected with the Field Phenotyping Platform (<a href="https://kp.ethz.ch/infrastructure/FIP.html" target="_blank">FIP</a>).
                 </p>
             </td>
         </tr>
