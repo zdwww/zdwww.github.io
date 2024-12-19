@@ -6,9 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm a Data Science Master student at ETH Zurich, where I have worked on egocentric vision research projects with Dr. <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a> , Prof. <a href="https://insait.ai/prof-luc-van-gool/" target="_blank">Luc Van Gool</a>, and Prof. <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Marc Pollefeys</a>, as well as agriculture-vision projects with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a>. Before that, I obtained a dual B.S. degree in Data Science and Applied Mathematics from the University of Rochester.
-
-My research interests focus on 3D vision and video understanding.
+<p style="font-size: 17px;">
+Hello! I'm a Data Science Master student at ETH Zurich, where I have worked on egocentric vision research projects with Dr. <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a> , Prof. <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Marc Pollefeys</a> at the <a href="https://cvg.ethz.ch" target="_blank">Computer Vision & Geometry Group</a>, and Prof. <a href="https://insait.ai/prof-luc-van-gool/" target="_blank">Luc Van Gool</a> at the <a href="https://vision.ee.ethz.ch" target="_blank">Computer Vision Lab</a>, as well as agriculture-vision projects with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a>. Before that, I obtained a dual B.S. degree in Data Science and Applied Mathematics from the University of Rochester. Go Yellowjackets! 🐝
+</p>
+<p style="font-size: 17px;">
+My research interests lie in 3D vision and video understanding.
+</p>
 
 Publications
 ------
@@ -149,6 +152,26 @@ Projects
                 <p></p>
                 <p>
                 Improved the performance of GPT2 and DialoGPT on multi-step mathematical reasoning problems by applying Mixture-of-Experts technique to a novel reasoning scheme called Socratic chain-of-thoughts (CoT).
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="border-collapse: collapse; border: none;">
+    <tbody>
+        <tr>
+            <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
+                <img src="/images/deepqsort.gif" width="50%">
+            </td>
+            <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
+                <span class="papertitle" style="font-weight: bold;">DeepQSort</span>
+                <br>
+                <em>Data Science Lab project with <a href="https://www.empa.ch" target="_blank">Empa</a></em>
+                <br>
+                <a href="https://gitlab.ethz.ch/daizhang/deepqsort" target="_blank">Code</a>
+                <p>
+                A ViT-based pipeline for efficient wood quality assessment.
                 </p>
             </td>
         </tr>
