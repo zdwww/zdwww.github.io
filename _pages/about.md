@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size: 17px;">
-Hello! I'm a Data Science Master student at ETH Zurich, where I have worked on egocentric vision research projects with Dr. <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a> , Prof. <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Marc Pollefeys</a> at the <a href="https://cvg.ethz.ch" target="_blank">Computer Vision & Geometry Group</a>, and Prof. <a href="https://insait.ai/prof-luc-van-gool/" target="_blank">Luc Van Gool</a> at the <a href="https://vision.ee.ethz.ch" target="_blank">Computer Vision Lab</a>, as well as agriculture-vision projects with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a>. Before that, I obtained a dual B.S. degree in Data Science and Applied Mathematics from the University of Rochester — Go Yellowjackets! 🐝
+Hello! I'm a Data Science Master student at ETH Zurich, where I have worked on egocentric vision research projects with Dr. <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a> , Prof. <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Marc Pollefeys</a> at the <a href="https://cvg.ethz.ch" target="_blank">Computer Vision & Geometry Group</a>, and Prof. <a href="https://insait.ai/prof-luc-van-gool/" target="_blank">Luc Van Gool</a> at the <a href="https://vision.ee.ethz.ch" target="_blank">Computer Vision Lab</a>, as well as agriculture-vision projects with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a>. Before that, I obtained a dual B.S. degree in Data Science and Applied Mathematics from the University of Rochester 🐝
 </p>
 <p style="font-size: 17px;">
 My research interests lie in 3D vision and video understanding.
@@ -42,7 +42,7 @@ Publications
                 <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html" target="_blank">Luc Van Gool</a>,
                 <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a>
                 <br>
-                Accepted at <em>International Conference on 3D Vision (<a href="https://3dvconf.github.io/2025/" target="_blank">3DV</a>) 2025</em>
+                <em>International Conference on 3D Vision (<a href="https://3dvconf.github.io/2025/" target="_blank">3DV</a>) 2025</em>
                 <br>
                 <a href="https://zdwww.github.io/egogs.github.io/" target="_blank">Project</a>
                 /
@@ -52,6 +52,39 @@ Publications
                 <p></p>
                 <p>
                     Recontruct 3D scenes and dynamically tracking 3D object motion from RGB egocentric input alone.
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="border-collapse: collapse; border: none;">
+    <tbody>
+        <tr>
+            <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
+                <img src="/images/wheatgs.gif" width="95%">
+            </td>
+            <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
+                <span class="papertitle" style="font-weight: bold;">In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting</span>
+                <!-- <a href="https://zdwww.github.io/egogs.github.io/" target="_blank">
+                    <span class="papertitle" style="font-weight: bold;">In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting</span>
+                </a> -->
+                <!-- <span class="papertitle" style="font-weight: bold; font-size: 1.1em;">EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting</span> -->
+                <br>
+                <strong>Daiwei Zhang</strong><sup>*</sup>,
+                <a href="https://usys.ethz.ch/en/people/profile.MjgwMjQy.TGlzdC82MzcsMzIwMTk3MjIy.html" target="_blank">Joaquin Gajardo</a><sup>*</sup>, 
+                <a href="https://gseg.igp.ethz.ch/people/scientific-assistance/tomislav-medic.html" target="_blank">Tomislav Medic</a>,
+                <a href="https://www.datascience.ch/people/isinsu-katircioglu" target="_blank">Isinsu Katircioglu</a>,
+                <a href="https://usys.ethz.ch/en/people/profile.MjI1NDIz.TGlzdC82MzcsMzIwMTk3MjIy.html" target="_blank">Mike Boss</a>,
+                <a href="https://usys.ethz.ch/en/people/profile.MTc1OTky.TGlzdC82MzcsMzIwMTk3MjIy.html" target="_blank">Norbert Kirchgessner</a>,
+                <a href="https://usys.ethz.ch/en/people/profile.achim-walter.html" target="_blank">Achim Walter</a>,
+                <a href="https://kp.ethz.ch/people/person-detail.MTg4MDU2.TGlzdC8xNDQyLDExMzQ4NjQxMzg=.html" target="_blank">Lukas Roth</a>
+                <br>
+                <em>Accepted at CVPR 2025 Workshop <a href="https://www.agriculture-vision.com" target="_blank">V4A</a> </em>
+                <br>
+                arXiv coming soon!
+                <p></p>
+                <p>
+                 A multi-scale reconstruction pipeline capable of modeling both the entire wheat field and individual wheat heads, using high-throughput RGB data collected with the Field Phenotyping Platform (<a href="https://kp.ethz.ch/infrastructure/FIP.html" target="_blank">FIP</a>).
                 </p>
             </td>
         </tr>
@@ -87,7 +120,7 @@ Publications
 
 Projects
 ------
-<table style="border-collapse: collapse; border: none;">
+<!-- <table style="border-collapse: collapse; border: none;">
     <tbody>
         <tr>
             <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
@@ -100,13 +133,11 @@ Projects
                 <br>
                 arXiv in preparation
                 <p></p>
-                <p>
-                 A multi-scale reconstruction pipeline capable of modeling both the entire wheat field and individual wheat heads, using high-throughput RGB data collected with the Field Phenotyping Platform (<a href="https://kp.ethz.ch/infrastructure/FIP.html" target="_blank">FIP</a>).
-                </p>
+                
             </td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 <table style="border-collapse: collapse; border: none;">
     <tbody>
