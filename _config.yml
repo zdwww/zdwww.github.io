@@ -21,14 +21,14 @@ repository               : "zdwww/zdwww.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2882.png"
+  avatar           : "bio-photo.jpg"
   name             : "Daiwei Zhang"
   pronouns         : # example: "she/her"  
   bio              : " "
-  location         : "Zurich, Switzerland"
+  location         : "Boston, MA"
   employer         : 
   uri              : # URL
-  email            : "daizhang@student.ethz.ch" 
+  email            : "zdw199948@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
