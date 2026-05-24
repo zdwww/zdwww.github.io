@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, ETH Zurich, 2024
+* M.S. in Data Science, ETH Zurich, 2024 (expected)
 * B.S. in Data Science with Highest Distinction, University of Rochester, 2021
 * B.S. in Applied Mathematics with High Distinction, University of Rochester, 2021
 
-<!-- Teaching Experience
+Teaching Experience
 ======
 * Teaching Assistant of Intermediate Statistics, Goergen Institute for Data Science, UofR, Jan.2020 - May.2020
-* Teaching Assistant of Discrete Mathematics, Department of Mathematics, UofR, Jan.2019 - May.2020 -->
+* Teaching Assistant of Discrete Mathematics, Department of Mathematics, UofR, Jan.2019 - May.2020
 
 <!-- Work experience
 ======
