@@ -191,6 +191,22 @@ copy._
 
 ---
 
+## Presentation
+
+An 8-slide project deck covering the five elements required by the
+course's "PRESENTATION" slide (Objective · Technologies used · What I'm
+most proud of · What was the hardest part · Demo) plus a title slide,
+architecture overview, and a links page.
+
+🎞 **[Open the deck in Google Slides](https://docs.google.com/presentation/d/1FZc1NaSugbp8wGrUYrXps-iV7MGyOYlR/edit?usp=sharing)** &nbsp; · &nbsp; Anyone-with-the-link · Viewer.
+
+The slides were authored in Markdown with [Marp](https://marp.app) and
+exported to `.pptx`, then uploaded to Drive and opened with Google
+Slides. The Marp source + the generated `.pptx` are kept local (see
+`.gitignore`); the canonical deck lives on Google Slides.
+
+---
+
 ## Use of GenAI
 
 Generative AI tools were used in four discrete ways for this project.

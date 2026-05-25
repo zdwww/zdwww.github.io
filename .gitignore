@@ -21,3 +21,6 @@ _config.dev.yml
 CS5610_P1_demo.mp4
 demo.mp4
 CS5610_P1_demo.srt
+
+# Slides — Marp source + .pptx; deck lives on Google Slides
+slides/
