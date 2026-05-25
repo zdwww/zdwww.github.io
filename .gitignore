@@ -16,3 +16,8 @@ package-lock.json
 
 # Local-only dev config (overrides site.url for `jekyll serve`)
 _config.dev.yml
+
+# Demo video — too large for repo; hosted on Google Drive
+CS5610_P1_demo.mp4
+demo.mp4
+CS5610_P1_demo.srt
