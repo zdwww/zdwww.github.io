@@ -13,3 +13,6 @@ node_modules
 package-lock.json
 
 .DS_Store
+
+# Local-only dev config (overrides site.url for `jekyll serve`)
+_config.dev.yml

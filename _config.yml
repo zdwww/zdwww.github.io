@@ -22,13 +22,13 @@ repository               : "zdwww/zdwww.github.io"
 author:
   # Biographic information
   avatar           : "IMG_2882.png"
-  name             : "Daiwei Zhang"
+  name             : "Daiwei(David) Zhang"
   pronouns         : # example: "she/her"  
   bio              : " "
-  location         : "Zurich, Switzerland"
+  location         : "Boston, MA"
   employer         : 
   uri              : # URL
-  email            : "daizhang@student.ethz.ch" 
+  email            : "zhang.daiwe@northeastern.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

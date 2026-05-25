@@ -7,25 +7,20 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size: 17px;">
-Hello! I'm a Data Science Master student at ETH Zurich, where I have worked on egocentric vision research projects with Dr. <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a> , Prof. <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Marc Pollefeys</a> at the <a href="https://cvg.ethz.ch" target="_blank">Computer Vision & Geometry Group</a>, and Prof. <a href="https://insait.ai/prof-luc-van-gool/" target="_blank">Luc Van Gool</a> at the <a href="https://vision.ee.ethz.ch" target="_blank">Computer Vision Lab</a>, as well as agriculture-vision projects with <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a>. Before that, I obtained a dual B.S. degree in Data Science and Applied Mathematics from the University of Rochester 🐝
+I am a first-year PhD student at the Khoury College of Computer Sciences, Northeastern University, advised by Prof. <a href="https://khoury.northeastern.edu/home/eelhami/index.html" target="_blank">Ehsan Elhamifar</a>. I also work closely with Prof. <a href="https://ltorresa.github.io/home.html" target="_blank">Lorenzo Torresani</a>. Before Northeastern, I received my MSc in Data Science from ETH Zürich, where I worked on egocentric vision with Dr. <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a>, Prof. <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Marc Pollefeys</a> at CVG, and Prof. <a href="https://insait.ai/prof-luc-van-gool/" target="_blank">Luc Van Gool</a> at CVL, as well as agriculture-vision projects with the <a href="https://www.datascience.ch" target="_blank">Swiss Data Science Center</a>. I obtained my dual B.S. in Data Science and Applied Mathematics from the University of Rochester 🐝
 </p>
 <p style="font-size: 17px;">
-My research interests lie in 3D vision and video understanding.
+My research interests lie in egocentric video understanding, AI task assistants, and 3D vision.
 </p>
 
 Publications
 ------
 
-<style>
-    table a {
-        text-decoration: none !important;
-    }
-</style>
 <table style="border-collapse: collapse; border: none;">
     <tbody>
         <tr>
             <td style="padding:0px;width:30%;vertical-align:middle;border:none;">
-                <img src="/images/egogs.gif" width="100%">
+                <img src="/images/egogs.gif" style="width:100%" alt="EgoGaussian project teaser">
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
                 <a href="https://zdwww.github.io/egogs.github.io/" target="_blank">
@@ -61,13 +56,12 @@ Publications
     <tbody>
         <tr>
             <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
-                <img src="/images/wheatgs.gif" width="95%">
+                <img src="/images/wheatgs.gif" style="width:95%" alt="Wheat Gaussian Splatting teaser">
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
-                <span class="papertitle" style="font-weight: bold;">In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting</span>
-                <!-- <a href="https://zdwww.github.io/egogs.github.io/" target="_blank">
+                <a href="https://joaquin-gajardo.github.io/wheat3dgs/" target="_blank">
                     <span class="papertitle" style="font-weight: bold;">In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting</span>
-                </a> -->
+                </a>
                 <!-- <span class="papertitle" style="font-weight: bold; font-size: 1.1em;">EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting</span> -->
                 <br>
                 <strong>Daiwei Zhang</strong><sup>*</sup>,
@@ -79,9 +73,13 @@ Publications
                 <a href="https://usys.ethz.ch/en/people/profile.achim-walter.html" target="_blank">Achim Walter</a>,
                 <a href="https://kp.ethz.ch/people/person-detail.MTg4MDU2.TGlzdC8xNDQyLDExMzQ4NjQxMzg=.html" target="_blank">Lukas Roth</a>
                 <br>
-                <em>Accepted at CVPR 2025 Workshop <a href="https://www.agriculture-vision.com" target="_blank">V4A</a> </em>
+                <em>CVPR 2025 Workshop <a href="https://www.agriculture-vision.com" target="_blank">V4A</a> </em>
                 <br>
-                arXiv coming soon!
+                <a href="https://joaquin-gajardo.github.io/wheat3dgs/" target="_blank">Project</a>
+                /
+                <a href="https://arxiv.org/abs/2504.06978" target="_blank">arXiv</a>
+                /
+                <a href="https://github.com/zdwww/Wheat-3DGS" target="_blank">Code</a>
                 <p></p>
                 <p>
                  A multi-scale reconstruction pipeline capable of modeling both the entire wheat field and individual wheat heads, using high-throughput RGB data collected with the Field Phenotyping Platform (<a href="https://kp.ethz.ch/infrastructure/FIP.html" target="_blank">FIP</a>).
@@ -93,8 +91,38 @@ Publications
 <table style="border-collapse: collapse; border: none;">
     <tbody>
         <tr>
+            <td style="padding:0px;width:30%;vertical-align:middle;border:none;">
+                <img src="/images/mapsam.png" style="width:100%" alt="MapSAM historical map segmentation teaser">
+            </td>
+            <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
+                <a href="https://www.tandfonline.com/doi/pdf/10.1080/15481603.2025.2494883" target="_blank">
+                    <span class="papertitle" style="font-weight: bold;">MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps</span>
+                </a>
+                <br>
+                <a href="https://karto.ethz.ch/en/professorship/people/people/person-detail.Mjg5OTE4.TGlzdC82OTYsMTcyMzg2NjEwNQ==.html" target="_blank">Xue Xia</a>, 
+                <strong>Daiwei Zhang</strong>,
+                Wenxuan Song, 
+                <a href="https://www.asg.ed.tum.de/sipeo/team/wei-huang/" target="_blank">Wei Huang</a>, 
+                <a href="https://ikg.ethz.ch/en/people/staff-a-z/person-detail.MzU4MDA=.TGlzdC8xMDMwLC05MDgxNDI5Mg==.html" target="_blank">Lorenz Hurni</a>
+                <br>
+                <em>GIScience & Remote Sensing 2025</em>
+                <br>
+                <a href="https://www.tandfonline.com/doi/pdf/10.1080/15481603.2025.2494883" target="_blank">Paper</a>
+                /
+                <a href="https://arxiv.org/abs/2411.06971" target="_blank">arXiv</a>
+                <p></p>
+                <p>
+                    A parameter-efficient fine-tuning strategy that adapts SAM into a prompt-free and versatile solution for various downstream historical map segmentation tasks.
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="border-collapse: collapse; border: none;">
+    <tbody>
+        <tr>
             <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
-                <img src="/images/covid.png" width="90%">
+                <img src="/images/covid.png" style="width:90%" alt="COVID Twitter mental-health study figure">
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
                 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9629680/" target="_blank">
@@ -124,7 +152,7 @@ Projects
     <tbody>
         <tr>
             <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
-                <img src="/images/wheatgs.gif" width="95%">
+                <img src="/images/wheatgs.gif" style="width:95%" alt="Wheat Gaussian Splatting teaser">
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
                 <span class="papertitle" style="font-weight: bold;">3D Understanding of Wheat Fields for Phenotypic Trait Extraction</span>
@@ -143,36 +171,7 @@ Projects
     <tbody>
         <tr>
             <td style="padding:0px;width:30%;vertical-align:middle;border:none;">
-                <img src="/images/mapsam.png" width="100%">
-            </td>
-            <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
-                <span class="papertitle" style="font-weight: bold;">MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps</span>
-                <br>
-                <a href="https://karto.ethz.ch/en/professorship/people/people/person-detail.Mjg5OTE4.TGlzdC82OTYsMTcyMzg2NjEwNQ==.html" target="_blank">Xue Xia</a>, 
-                <strong>Daiwei Zhang</strong>,
-                Wenxuan Song, 
-                <a href="https://www.asg.ed.tum.de/sipeo/team/wei-huang/" target="_blank">Wei Huang</a>, 
-                <a href="https://ikg.ethz.ch/en/people/staff-a-z/person-detail.MzU4MDA=.TGlzdC8xMDMwLC05MDgxNDI5Mg==.html" target="_blank">Lorenz Hurni</a>
-                <br>
-                Submitted to <em>IEEE Transactions on Geoscience and Remote Sensing</em>
-                <br>
-                <em>Final Project for <a href="https://karto.ethz.ch/en/education/courses/master/research-topics-cartography.html" target="_blank">Research Topics in Cartography</a></em>
-                <br>
-                <a href="https://arxiv.org/abs/2411.06971">arXiv</a>
-                <p></p>
-                <p>
-                    A parameter-efficient fine-tuning strategy that adapts SAM into a prompt-free and versatile solution for various downstream historical map segmentation tasks.
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table style="border-collapse: collapse; border: none;">
-    <tbody>
-        <tr>
-            <td style="padding:0px;width:30%;vertical-align:middle;border:none;">
-                <img src="/images/CSNLP.png" width="100%">
+                <img src="/images/CSNLP.png" style="width:100%" alt="MoE math reasoning project teaser">
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
                 <span class="papertitle" style="font-weight: bold;">MoE Technique on LLM for Math Reasoning Problems</span>
@@ -193,7 +192,7 @@ Projects
     <tbody>
         <tr>
             <td style="padding:0px;width:30%;vertical-align:middle;border:none;text-align:center;">
-                <img src="/images/deepqsort.gif" width="50%">
+                <img src="/images/deepqsort.gif" style="width:50%" alt="DeepQSort wood quality pipeline teaser">
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
                 <span class="papertitle" style="font-weight: bold;">DeepQSort</span>
