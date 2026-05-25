@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mabu, Peanut &amp; 张三 — A cabinet of three cats</title>
+    <meta name="author" content="Daiwei Zhang" />
+    <meta
+      name="description"
+      content="A small editorial archive of photographs of three cats: Mabu, Peanut, and 张三."
+    />
+    <link rel="icon" type="image/svg+xml" href="images/favicon.svg" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <script type="module" src="js/main.js"></script>
+  </head>
+  <body data-page="gallery">
+    <div class="shell">
+      <header class="site-header">
+        <a class="wordmark" href="index.html"
+          >Mabu, Peanut <span class="amp">&amp;</span> 张三</a
+        >
+        <nav aria-label="Primary">
+          <ul class="site-nav">
+            <li><a href="index.html" aria-current="page">Gallery</a></li>
+            <li><a href="about.html">The Cats</a></li>
+            <li><a href="ai-companions.html">AI Companions</a></li>
+            <li><a href="/">Daiwei&rsquo;s site</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <main>
+        <section class="masthead">
+          <p class="kicker">
+            Volume I <span class="dot">&middot;</span> Issue 01
+            <span class="dot">&middot;</span> Boston, MA
+          </p>
+          <h1>A cabinet of <em>three cats</em>.</h1>
+          <p class="lede">
+            Catalogued here, in no particular order: the small and persistent evidence
+            that Mabu, Peanut, and 张三 live in this apartment. Click a figure to
+            enlarge; arrow keys to leaf through.
+          </p>
+        </section>
+
+        <section class="filters" aria-label="Filter photographs by cat">
+          <span class="filters-label">Filter</span>
+          <button type="button" class="filter-chip" data-cat="all" aria-pressed="true">
+            All
+          </button>
+          <button
+            type="button"
+            class="filter-chip"
+            data-cat="mabu"
+            aria-pressed="false"
+          >
+            Mabu
+          </button>
+          <button
+            type="button"
+            class="filter-chip"
+            data-cat="peanut"
+            aria-pressed="false"
+          >
+            Peanut
+          </button>
+          <button
+            type="button"
+            class="filter-chip"
+            data-cat="zhangsan"
+            aria-pressed="false"
+          >
+            张三
+          </button>
+        </section>
+
+        <section
+          class="gallery"
+          aria-label="Photo gallery"
+          aria-live="polite"
+        ></section>
+      </main>
+
+      <footer class="site-footer">
+        <span>&copy; 2026 Daiwei Zhang</span>
+        <span class="colophon"
+          >Set in Fraunces, Newsreader &amp; IBM Plex Mono. Hand-assembled.</span
+        >
+      </footer>
+    </div>
+
+    <dialog class="lightbox" aria-label="Photograph viewer">
+      <div class="lightbox-frame">
+        <div class="lightbox-image" aria-live="polite"></div>
+        <div class="lightbox-meta">
+          <span>
+            <span data-role="fig-num">Fig. 01</span>
+            <span aria-hidden="true"> &middot; </span>
+            <span data-role="cat-label"></span>
+          </span>
+          <span class="caption" data-role="caption"></span>
+          <span class="lightbox-controls">
+            <button
+              type="button"
+              class="lightbox-btn"
+              data-role="prev"
+              aria-label="Previous photograph"
+            >
+              &larr; Prev
+            </button>
+            <button
+              type="button"
+              class="lightbox-btn"
+              data-role="next"
+              aria-label="Next photograph"
+            >
+              Next &rarr;
+            </button>
+            <button
+              type="button"
+              class="lightbox-btn"
+              data-role="close"
+              aria-label="Close viewer"
+            >
+              Close
+            </button>
+          </span>
+        </div>
+      </div>
+    </dialog>
+  </body>
+</html>

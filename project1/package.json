@@ -1,0 +1,25 @@
+{
+  "name": "mabu-and-peanut",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small editorial cat-photo archive built in vanilla HTML5, CSS3 and ES6 modules.",
+  "author": "Daiwei Zhang <zhang.daiwe@northeastern.edu>",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://zdwww.github.io/project1/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zdwww/zdwww.github.io"
+  },
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "format": "prettier --write \"**/*.{html,css,js,json,md}\"",
+    "format:check": "prettier --check \"**/*.{html,css,js,json,md}\"",
+    "lint": "eslint \"js/**/*.js\""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "prettier": "^3.3.0"
+  }
+}
